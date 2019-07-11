@@ -1,0 +1,29 @@
+<UI version="4.0" >
+ <class>Tianqin_dataStructureClass</class>
+ <widget class="QMainWindow" name="Tianqin_dataStructureClass" >
+  <property name="objectName" >
+   <string notr="true">Tianqin_dataStructureClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Tianqin_dataStructure</string>
+  </property>
+  <widget class="QMenuBar" name="menuBar" />
+  <widget class="QToolBar" name="mainToolBar" />
+  <widget class="QWidget" name="centralWidget" />
+  <widget class="QStatusBar" name="statusBar" />
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="Tianqin_dataStructure.qrc"/>
+ </resources>
+ <connections/>
+</UI>
